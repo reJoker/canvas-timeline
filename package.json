@@ -1,0 +1,23 @@
+{
+  "name": "canvas-timeline",
+  "version": "0.1.0",
+  "description": "A canvas timeline implemetation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reJoker/canvas-timeline.git"
+  },
+  "keywords": [
+    "canvas",
+    "timeline"
+  ],
+  "author": "Jack Liao <djack0812@gmail.com>",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/reJoker/canvas-timeline/issues"
+  },
+  "homepage": "https://github.com/reJoker/canvas-timeline#readme"
+}
